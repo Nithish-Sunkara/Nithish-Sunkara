@@ -46,25 +46,6 @@ at <b>Indiana Institute of Technology</b>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45"/>
 </p>
 
----
-
-<p align="center">🌐 Connect with Me: <p align="center">
-  <!-- Databases & Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
-
-  <!-- Data Libraries -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45"/>
-
-  <!-- BI & Analytics -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="45" height="45"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="45" height="45"/>
-
-  <!-- Version Control -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45"/>
-</p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/nsunkara01/" target="_blank">Linkedn
   </a>
