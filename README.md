@@ -3,7 +3,6 @@
 
 - <div align="center">💡 I’m passionate about Data Analytics.  </div></br>
 - <div align="center">🔭 I’m currently Pursuing Master's in <b>Information Systems</b> from <b>Indiana Institute of Technology</b> </br>
--<div align="center"> 📈 I work with raw data, perform ETL, cleaning, and EDA, then create KPIs and finally make some dashboards to help stakeholders make data-driven decisions.</br>
 -<div align="center"> 🌱 I’m currently learning <b>Python, pandas and Numpy</b> </br>
 -<div align="center"> 👯 I’m looking to collaborate on Analytics Projects</br>
 -<div align="center"> 💬 Ask me about <b>SQL, Excel, Tableau, Power BI</b> </br>
