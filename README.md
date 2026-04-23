@@ -25,24 +25,8 @@ at <b>Indiana Institute of Technology</b>
 ⚡ Fun fact: I love driving cars and motorcycles 🏎️🏍️
 </p>
 
-<h3 align="center">🛠️ Tools & Technologies</h3>
-
-<p align="center">
-  <!-- Databases & Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
-
-  <!-- Data Libraries -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45"/>
-
-  <!-- BI & Analytics -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="45" height="45"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="45" height="45"/>
-
-  <!-- Version Control -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45"/>
+<p>
+<h3> 🎓 **Microsoft Learn Profile:** [View my Achievements & Transcripts] <a href = "https://learn.microsoft.com/en-us/users/nithishsunkara-8103/achievements?tab=tab-modules" )>Microsoft Learn</a> </h3>
 </p>
-
 
 <h3 align="center">🌐 Connect with Me: <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">LinkedIn</a> </h3>
