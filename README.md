@@ -1,6 +1,6 @@
-<h1>Hello there 👋,  I'm  Nithish Sunkara</h1>
+<h1> Here is a short bio about me: </h1>
 
-<h4> Here is a short bio about me: </h4>
+<h4> Hello there 👋,  I'm  Nithish Sunkara</h4>
 
 <p>
  I am passionate about <b>DATA</b>. Yes the data that transforms businesses and makes peoples lives easier. I hold a Master's degree in Information Systems.
