@@ -18,7 +18,7 @@ at <b>Indiana Institute of Technology</b>
 </p>
 
 <p align="center">
-💬 Ask me about <b>SQL, Excel, Tableau, Power BI</b>
+💬 Ask me about <b>Python (Panda, NumPy, Matplotlib, Seaborn)SQL, Excel, Tableau, Power BI</b>
 </p>
 
 <p align="center">
