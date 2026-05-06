@@ -16,7 +16,7 @@
 </p>
 
 <p>
-💬 Ask me about <b>Python (Panda, NumPy, Matplotlib, Seaborn)SQL, Excel, Tableau, Power BI</b>
+💬 Ask me about <b>Python (Panda, NumPy, Matplotlib, Seaborn), SQL, Excel, PowerBI, Tableau
 </p>
 
 <p>
