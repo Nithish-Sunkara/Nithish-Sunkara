@@ -1,19 +1,15 @@
 <h1>Hello there 👋,  I'm  Nithish Sunkara</h1>
 
-<h4 align="center"> Here is a Short bio about me: </h4>
+<h4> Here is a Short bio about me: </h4>
 
 <p>
 💡 Passionate about <b>Data Analytics</b>
 </p>
 
 <p>
-🔭 Currently pursuing a <b>Master’s in Information Systems</b><br/>
-at <b>Indiana Institute of Technology</b>
+🔭 I hold a Master's degree in Information Systems.
 </p>
 
-<p>
-🌱 Currently learning <b>Python, Pandas & NumPy</b>
-</p>
 
 <p>
 👯 Looking to collaborate on <b>Analytics Projects</b>
