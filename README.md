@@ -1,4 +1,6 @@
-<h1 align="center">Hi there 👋, I'm  Nithish Sunkara</h1>
+<h1 align="center">Hello there 👋,  I'm  Nithish Sunkara</h1>
+
+<h4 align="center"> Here is a Short bio about me: </h4>
 
 <p align="center">
 💡 Passionate about <b>Data Analytics</b>
@@ -22,11 +24,13 @@ at <b>Indiana Institute of Technology</b>
 </p>
 
 <p align="center">
-⚡ Fun fact: I love driving cars and motorcycles 🏎️🏍️
+⚡ Fun fact: I love driving cars 🏎️ and motorcycles 🏍️
 </p>
 
-<p>
-<h3> 🎓 **Microsoft Learn Profile:** [View my Achievements & Transcripts] <a href = "https://learn.microsoft.com/en-us/users/nithishsunkara-8103/achievements?tab=tab-modules" )>Microsoft Learn</a> </h3>
+<p align="center">
+🎓 **View my Achievements:** <a href = "https://learn.microsoft.com/en-us/users/nithishsunkara-8103/achievements?tab=tab-modules" )>Microsoft Learn</a>
 </p>
 
-<h3 align="center">🌐 Connect with Me: <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">LinkedIn</a> </h3>
+<p align="center">
+🌐 Connect with Me: <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">LinkedIn</a>
+</p>
