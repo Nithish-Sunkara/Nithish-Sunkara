@@ -1,18 +1,10 @@
 <h1>Hello there 👋,  I'm  Nithish Sunkara</h1>
 
-<h4> Here is a Short bio about me: </h4>
+<h4> Here is a short bio about me: </h4>
 
 <p>
-💡 Passionate about <b>Data Analytics</b>
-</p>
-
-<p>
-🔭 I hold a Master's degree in Information Systems.
-</p>
-
-
-<p>
-👯 Looking to collaborate on <b>Analytics Projects</b>
+ I am passionate about <b>DATA</b>. Yes the data that transforms businesses and makes peoples lives easier. I hold a Master's degree in Information Systems.
+ I would to collaborate on Analytics Projects and share my knowledge that i gained.
 </p>
 
 <p>
