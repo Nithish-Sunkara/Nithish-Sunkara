@@ -8,10 +8,10 @@
 </p>
 
 <p>
-💬 Programming languages:  <b>Python (Panda, NumPy, Matplotlib, Seaborn), SQL
- Visualization Tools: PowerBI, Tableau
- IDE: VS code, Jupternotebook, MySQL, SQLServer, SSMS, Anaconda
- Other tools: MS Suite, Google suite, Outlook, Calendar, Jira
+💬 Programming languages: Python (Panda, NumPy, Matplotlib, Seaborn), SQL</p>
+<p> Visualization Tools: PowerBI, Tableau</p>
+<p>IDE: VS code, Jupternotebook, MySQL, SQLServer, SSMS, Anaconda</p>
+<p> Other tools: MS Suite, Google suite, Outlook, Calendar, Jira</p>
 </p>
 
 <p>
