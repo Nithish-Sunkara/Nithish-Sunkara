@@ -3,12 +3,15 @@
 <h4> Hello there 👋,  I'm  Nithish Sunkara</h4>
 
 <p>
- I am passionate about <b>DATA</b>. Yes the data that transforms businesses and makes peoples lives easier. I hold a Master's degree in Information Systems.
+ I am passionate about <b>DATA</b>. Yes the data that transforms businesses and makes peoples lives easier.
  I would to collaborate on Analytics Projects and share my knowledge that i gained.
 </p>
 
 <p>
-💬 Ask me about <b>Python (Panda, NumPy, Matplotlib, Seaborn), SQL, Excel, PowerBI, Tableau
+💬 Programming languages:  <b>Python (Panda, NumPy, Matplotlib, Seaborn), SQL
+ Visualization Tools: PowerBI, Tableau
+ IDE: VS code, Jupternotebook, MySQL, SQLServer, SSMS, Anaconda
+ Other tools: MS Suite, Google suite, Outlook, Calendar, Jira
 </p>
 
 <p>
