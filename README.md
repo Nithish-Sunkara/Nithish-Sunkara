@@ -10,6 +10,7 @@
 <p>
 💬 Programming languages: Python (Panda, NumPy, Matplotlib, Seaborn), SQL</p>
 <p> Visualization Tools: PowerBI, Tableau, IBM Cognos Analytics, Google Data Studio(Formerly Looker)</p>
+<p> Computer Software & Tools: MS Office(Office 365), Google suite, Visio, VS code, Canva
 <p>IDE: VS code, Jupternotebook, MySQL, SQLServer, SSMS, Anaconda</p>
 <p> Other tools: MS Suite, Google suite, Outlook, Calendar, Jira</p>
 </p>
@@ -23,5 +24,5 @@
 </p>
 
 <p>
-Feel free to connect with Me on <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">LinkedIn</a>
+Feel free to connect with me on <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">LinkedIn</a>
 </p>
