@@ -9,7 +9,7 @@
 
 <p>
 💬 Programming languages: Python (Panda, NumPy, Matplotlib, Seaborn), SQL</p>
-<p> Visualization Tools: PowerBI, Tableau, IBM Cognos Analytics, Google Data Studio(Formerly Looker)</p>
+<p> Visualization Tools: PowerBI, Tableau, IBM Cognos Analytics, Google Data Studio(Looker)</p>
 <p> Computer Software & Tools: MS Office(Office 365), Google suite, Visio, VS code, Canva
 <p>IDE: VS code, Jupternotebook, MySQL, SQLServer, SSMS, Anaconda</p>
 <p> Other tools: MS Suite, Google suite, Outlook, Calendar, Jira</p>
