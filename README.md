@@ -1,4 +1,4 @@
-# Hello there, I'm Nithish Sunkara 👋
+# Hello, I'm Nithish Sunkara 👋
 
 ### Data Analyst | SQL • Python • Power BI • Excel • Tableau
 
