@@ -1,28 +1,107 @@
-<h1> Here is a short bio about me: </h1>
+# Hello there, I'm Nithish Sunkara 👋
 
-<h4> Hello there 👋,  I'm  Nithish Sunkara</h4>
+### Data Analyst | SQL • Python • Power BI • Excel • Tableau
 
-<p>
- I am passionate about <b>DATA</b>. Yes the data that transforms businesses and makes peoples lives easier.
- I would to collaborate on Analytics Projects and share my knowledge that i gained.
-</p>
+I'm a **Data Analyst** with a Master's degree in Information Systems and a Bachelor's degree in Computer Science Engineering. I focus on transforming complex datasets into actionable insights through data analysis, statistical exploration, and business intelligence reporting.
 
-<p>
-💬 Programming languages: Python (Panda, NumPy, Matplotlib, Seaborn), SQL</p>
-<p> Visualization Tools: PowerBI, Tableau, IBM Cognos Analytics, Google Data Studio(Looker)</p>
-<p> Computer Software & Tools: MS Office(Office 365), Google suite, Visio, VS code, Canva
-<p>IDE: VS code, Jupternotebook, MySQL, SQLServer, SSMS, Anaconda</p>
-<p> Other tools: MS Suite, Google suite, Outlook, Calendar, Jira</p>
-</p>
+My work spans **healthcare analytics, transportation operations, customer behavior, and automotive performance**, with hands-on experience in data cleaning, SQL analysis, ETL workflows, and interactive dashboard development.
 
-<p>
-⚡ Fun fact: I love driving cars 🏎️ and motorcycles 🏍️
-</p>
+Alongside my independent analytics projects, I contribute as a **Volunteer Data Analyst with a nonprofit organization**, supporting data collection, validation, and analytical activities.
 
-<p>
-🎓 View my Achievements: <a href = "https://learn.microsoft.com/en-us/users/nithishsunkara-8103/achievements?tab=tab-modules" )>Microsoft Learn</a>
-</p>
+I'm passionate about solving business problems, improving operational efficiency, and communicating meaningful insights through data.
 
-<p>
-Feel free to connect with me on <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">LinkedIn</a>
-</p>
+---
+
+## Technical Skills
+
+**Programming & Data Analysis**
+- Python: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+- SQL: Joins, CTEs, Subqueries, Window Functions, Aggregations
+- Exploratory Data Analysis, Data Cleaning, Statistical Analysis
+
+**Business Intelligence & Visualization**
+- Power BI, Tableau, IBM Cognos Analytics, Looker Studio
+- Microsoft Excel, PivotTables, PivotCharts
+- Dashboard Development, KPI Reporting, Data Storytelling
+
+**Databases & Tools**
+- SQLite, MySQL
+- ETL Workflows, Data Validation, Data Transformation
+- Git, GitHub, Jupyter Notebook, Visual Studio Code
+
+---
+
+## Featured Projects
+
+### 1. Healthcare Operations & Patient Analytics
+
+**Tools:** Excel | SQL | Python | Power BI
+
+- Analyzed **20,000 synthetic patient records** to evaluate hospital operations, patient outcomes, and financial performance.
+- Investigated length of stay, readmission rates, departmental performance, and billing trends.
+- Developed a three-page Power BI dashboard presenting operational and quality metrics.
+
+**Key Metrics:** 3.61-day average length of stay | 15.49% readmission rate
+
+[View Project Repository](https://github.com/Nithish-Sunkara/Healthcare-Operational-Analytics)
+
+### 2. NYC Citi Bike & Weather Analytics
+
+**Tools:** SQL | Power BI | ETL
+
+- Processed and analyzed **9 million+ bike trip records** alongside NYC weather data.
+- Explored ridership trends, station performance, user behavior, and weather-related demand patterns.
+- Developed four Power BI dashboards to communicate findings and support operational planning.
+
+**Key Findings:** 50K+ average daily rides | Approximately 12% lower ridership associated with rainfall
+
+[View Project Repository](https://github.com/Nithish-Sunkara/Citibike_Weather_Analysis)
+
+### 3. Automotive Sales Performance Analysis
+
+**Tools:** Microsoft Excel | PivotTables | PivotCharts
+
+- Analyzed automotive sales, dealership performance, vehicle models, and profitability.
+- Developed an interactive Excel dashboard to explore sales trends and compare business performance.
+
+[View Project Repository](https://github.com/Nithish-Sunkara/Automotive-Sales-Analysis)
+
+### 4. Automotive Sales & Service Analytics
+
+**Tools:** IBM Cognos Analytics | Business Intelligence
+
+- Developed dashboards to analyze automotive sales performance, profitability, vehicle recalls, and customer sentiment.
+- Presented operational metrics through interactive reports and visualizations.
+
+[View Project Repository](https://github.com/Nithish-Sunkara/cognos-automotive-dashboard)
+
+---
+
+## Education
+
+**Master of Science in Information Systems**  
+Indiana Institute of Technology
+
+**Bachelor's Degree in Computer Science Engineering**
+
+---
+
+## Certifications
+
+- IBM Data Analyst Professional Certificate
+- IBM Generative AI: Enhance Your Data Analytics Career
+- Lean Six Sigma White Belt
+
+---
+
+## Portfolio & Connect
+
+**Portfolio Website:** [Explore My Data Analyst Portfolio](https://nithish-sunkara.github.io/Nithish-Sunkara-Portfolio/)
+
+**LinkedIn:** [Connect with Me](https://www.linkedin.com/in/nsunkara01/)
+
+**Email:** [nithishsunkara.ns@gmail.com](mailto:nithishsunkara.ns@gmail.com)
+
+---
+
+*Turning data into insights that support better business decisions.*
